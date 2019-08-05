@@ -1,0 +1,93 @@
+<OreConfig>
+	<oreGen temp="0">
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="64"/>
+		<ore block="minecraft:lapis_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="10"/>
+		<ore block="minecraft:emerald_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="20"/>
+		<ore block="minecraft:quartz_ore" minHeight="5" maxHeight="16" clumpSize="12" chancePerChunk="25"/>
+		<ore block="minecraft:redstone_ore" minHeight="5" maxHeight="25" clumpSize="12" chancePerChunk="35"/>
+		<ore block="iceandfire:sapphire_ore" minHeight="5" maxHeight="40" clumpSize="12" chancePerChunk="20"/>
+		
+	</oreGen>
+	
+	<oreGen temp="1">
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="64"/>
+		<ore block="minecraft:lapis_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="10"/>
+		<ore block="minecraft:emerald_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="minecraft:quartz_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="25"/>
+		<ore block="minecraft:redstone_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="iceandfire:sapphire_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="mekanism:oreblock" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20" />
+		
+	</oreGen>
+
+	<oreGen temp="2">
+		<ore block="minecraft:gold_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="30"/>
+		<ore block="minecraft:iron_ore" minHeight="5" maxHeight="64" clumpSize="12" chancePerChunk="50"/>
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="64"/>
+		<ore block="minecraft:lapis_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="10"/>
+		<ore block="minecraft:diamond_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="5"/>
+		<ore block="minecraft:emerald_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="minecraft:redstone_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="iceandfire:silver_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="30"/>
+		<ore block="mekanism:oreblock" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="40" />
+		
+	</oreGen>
+	
+	<oreGen temp="3">
+		<ore block="minecraft:gold_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="30"/>
+		<ore block="minecraft:iron_ore" minHeight="5" maxHeight="64" clumpSize="12" chancePerChunk="50"/>
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="48"/>
+		<ore block="minecraft:diamond_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="7"/>
+		
+		<ore block="libvulpes:ore0" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="libvulpes:ore0 4" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 5" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 8" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 9" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 10" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="1"/>
+		
+		<ore block="iceandfire:silver_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="30"/>
+		
+		<ore block="mekanism:oreblock" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="40" />
+		
+	</oreGen>
+
+	<oreGen temp="4">
+		<ore block="minecraft:gold_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="30"/>
+		<ore block="minecraft:iron_ore" minHeight="5" maxHeight="64" clumpSize="12" chancePerChunk="50"/>
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="32"/>
+		<ore block="minecraft:diamond_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="10"/>
+		
+		<ore block="libvulpes:ore0" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="libvulpes:ore0 4" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 5" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 8" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 9" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 10" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="3"/>
+		
+		<ore block="iceandfire:silver_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="30"/>
+		
+		<ore block="sgcraft:naquadahore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="4" />
+
+	</oreGen>
+
+	<oreGen temp="5">
+		<ore block="minecraft:gold_ore" minHeight="5" maxHeight="30" clumpSize="12" chancePerChunk="30"/>
+		<ore block="minecraft:iron_ore" minHeight="5" maxHeight="64" clumpSize="12" chancePerChunk="50"/>
+		<ore block="minecraft:coal_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="32"/>
+		<ore block="minecraft:diamond_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="10"/>
+		
+		<ore block="libvulpes:ore0" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="20"/>
+		<ore block="libvulpes:ore0 4" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 5" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="45"/>
+		<ore block="libvulpes:ore0 8" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 9" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="35"/>
+		<ore block="libvulpes:ore0 10" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="3"/>
+		
+		<ore block="iceandfire:silver_ore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="30"/>
+		
+		<ore block="sgcraft:naquadahore" minHeight="5" maxHeight="80" clumpSize="12" chancePerChunk="4" />
+
+	</oreGen>
+	
+</OreConfig>
